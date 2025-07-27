@@ -1,0 +1,10 @@
+python-telegram-bot==20.7
+yt-dlp==2023.12.30
+instaloader==4.10.3
+supabase==2.3.4
+requests==2.31.0
+python-dotenv==1.0.0
+asyncio
+tempfile
+urllib3==1.26.18
+certifi==2023.11.17
